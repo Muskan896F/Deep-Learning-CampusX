@@ -1,5 +1,17 @@
-panda 
 numpy
+pandas
+matplotlib
 seaborn
 scikit-learn
-matplotlib
+
+# Machine Learning and Deep Learning
+tensorflow>=2.16.1
+keras>=3.7.0
+
+
+# Additional utilities for ANN projects
+h5py
+joblib
+
+# Optional (for handling datasets)
+jupyterlab
