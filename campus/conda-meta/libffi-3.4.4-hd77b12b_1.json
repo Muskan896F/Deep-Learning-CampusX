@@ -7,7 +7,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\md199\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1",
+  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1",
   "files": [
     "Library/bin/ffi-7.dll",
     "Library/bin/ffi-8.dll",
@@ -19,18 +19,17 @@
     "Library/lib/libffi.lib",
     "Library/lib/pkgconfig/libffi.pc",
     "Library/share/libffi/libffiTargets-release.cmake",
-    "Library/share/libffi/libffiTargets.cmake",
-    ".nonadmin"
+    "Library/share/libffi/libffiTargets.cmake"
   ],
   "fn": "libffi-3.4.4-hd77b12b_1.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\md199\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1",
+    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1",
     "type": 1
   },
   "md5": "9807b377e11739ae3e920e10e607e460",
   "name": "libffi",
-  "package_tarball_full_path": "C:\\Users\\md199\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1.conda",
+  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1.conda",
   "paths_data": {
     "paths": [
       {

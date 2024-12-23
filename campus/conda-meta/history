@@ -1,6 +1,6 @@
-==> 2024-12-08 11:05:39 <==
-# cmd: C:\Users\md199\anaconda3\Scripts\conda-script.py create -p campus python==3.11 -y
-# conda version: 24.7.1
+==> 2024-12-22 22:34:18 <==
+# cmd: C:\Users\HP\anaconda3\Scripts\conda-script.py create -p campus python==3.11 -y
+# conda version: 24.11.2
 +defaults/noarch::tzdata-2024b-h04d1e81_0
 +defaults/win-64::bzip2-1.0.8-h2bbff1b_6
 +defaults/win-64::ca-certificates-2024.11.26-haa95532_0

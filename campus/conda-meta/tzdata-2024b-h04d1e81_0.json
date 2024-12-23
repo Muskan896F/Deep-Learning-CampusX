@@ -4,7 +4,7 @@
   "channel": "https://repo.anaconda.com/pkgs/main/noarch",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "C:\\Users\\md199\\anaconda3\\pkgs\\tzdata-2024b-h04d1e81_0",
+  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\tzdata-2024b-h04d1e81_0",
   "files": [
     "share/zoneinfo/Africa/Abidjan",
     "share/zoneinfo/Africa/Accra",
@@ -609,19 +609,18 @@
     "share/zoneinfo/tzdata.zi",
     "share/zoneinfo/zone.tab",
     "share/zoneinfo/zone1970.tab",
-    "share/zoneinfo/zonenow.tab",
-    ".nonadmin"
+    "share/zoneinfo/zonenow.tab"
   ],
   "fn": "tzdata-2024b-h04d1e81_0.conda",
   "license": "CC-PDDC OR BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\md199\\anaconda3\\pkgs\\tzdata-2024b-h04d1e81_0",
+    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\tzdata-2024b-h04d1e81_0",
     "type": 1
   },
   "md5": "9be694715c6a65f9631bb1b242125e9d",
   "name": "tzdata",
   "noarch": "generic",
-  "package_tarball_full_path": "C:\\Users\\md199\\anaconda3\\pkgs\\tzdata-2024b-h04d1e81_0.conda",
+  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\tzdata-2024b-h04d1e81_0.conda",
   "package_type": "noarch_generic",
   "paths_data": {
     "paths": [

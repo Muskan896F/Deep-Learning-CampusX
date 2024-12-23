@@ -4,11 +4,11 @@
   "channel": "https://repo.anaconda.com/pkgs/main/win-64",
   "constrains": [],
   "depends": [
-    "python >=3.11,<3.12.0a0",
     "setuptools",
-    "wheel"
+    "wheel",
+    "python >=3.11,<3.12.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\md199\\anaconda3\\pkgs\\pip-24.2-py311haa95532_0",
+  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\pip-24.2-py311haa95532_0",
   "files": [
     "Lib/site-packages/pip-24.2.dist-info/AUTHORS.txt",
     "Lib/site-packages/pip-24.2.dist-info/INSTALLER",
@@ -864,18 +864,17 @@
     "Scripts/pip-script.py",
     "Scripts/pip.exe",
     "Scripts/pip3-script.py",
-    "Scripts/pip3.exe",
-    ".nonadmin"
+    "Scripts/pip3.exe"
   ],
   "fn": "pip-24.2-py311haa95532_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\md199\\anaconda3\\pkgs\\pip-24.2-py311haa95532_0",
+    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\pip-24.2-py311haa95532_0",
     "type": 1
   },
   "md5": "516c1ffe1a045a462323166a58318073",
   "name": "pip",
-  "package_tarball_full_path": "C:\\Users\\md199\\anaconda3\\pkgs\\pip-24.2-py311haa95532_0.conda",
+  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\pip-24.2-py311haa95532_0.conda",
   "paths_data": {
     "paths": [
       {

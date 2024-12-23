@@ -4,7 +4,7 @@
   "channel": "https://repo.anaconda.com/pkgs/main/win-64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "C:\\Users\\md199\\anaconda3\\pkgs\\vs2015_runtime-14.42.34433-h9531ae6_2",
+  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\vs2015_runtime-14.42.34433-h9531ae6_2",
   "files": [
     "Library/bin/api-ms-win-core-console-l1-1-0.dll",
     "Library/bin/api-ms-win-core-console-l1-2-0.dll",
@@ -113,18 +113,17 @@
     "vcomp140.dll",
     "vcruntime140.dll",
     "vcruntime140_1.dll",
-    "vcruntime140_threads.dll",
-    ".nonadmin"
+    "vcruntime140_threads.dll"
   ],
   "fn": "vs2015_runtime-14.42.34433-h9531ae6_2.conda",
   "license": "",
   "link": {
-    "source": "C:\\Users\\md199\\anaconda3\\pkgs\\vs2015_runtime-14.42.34433-h9531ae6_2",
+    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\vs2015_runtime-14.42.34433-h9531ae6_2",
     "type": 1
   },
   "md5": "4b7a61e3eff596a8a90aca817be3cf4f",
   "name": "vs2015_runtime",
-  "package_tarball_full_path": "C:\\Users\\md199\\anaconda3\\pkgs\\vs2015_runtime-14.42.34433-h9531ae6_2.conda",
+  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\vs2015_runtime-14.42.34433-h9531ae6_2.conda",
   "paths_data": {
     "paths": [
       {

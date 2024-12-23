@@ -6,19 +6,17 @@
   "depends": [
     "vs2015_runtime >=14.42.34433"
   ],
-  "extracted_package_dir": "C:\\Users\\md199\\anaconda3\\pkgs\\vc-14.40-haa95532_2",
-  "files": [
-    ".nonadmin"
-  ],
+  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\vc-14.40-haa95532_2",
+  "files": [],
   "fn": "vc-14.40-haa95532_2.conda",
   "license": "BSD-3-Clause",
   "link": {
-    "source": "C:\\Users\\md199\\anaconda3\\pkgs\\vc-14.40-haa95532_2",
+    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\vc-14.40-haa95532_2",
     "type": 1
   },
   "md5": "d0a53bd27696fe718c3662812675e473",
   "name": "vc",
-  "package_tarball_full_path": "C:\\Users\\md199\\anaconda3\\pkgs\\vc-14.40-haa95532_2.conda",
+  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\vc-14.40-haa95532_2.conda",
   "paths_data": {
     "paths": [],
     "paths_version": 1

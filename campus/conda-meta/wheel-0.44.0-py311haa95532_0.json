@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.11,<3.12.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\md199\\anaconda3\\pkgs\\wheel-0.44.0-py311haa95532_0",
+  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\wheel-0.44.0-py311haa95532_0",
   "files": [
     "Lib/site-packages/wheel-0.44.0.dist-info/LICENSE.txt",
     "Lib/site-packages/wheel-0.44.0.dist-info/METADATA",
@@ -71,18 +71,17 @@
     "Lib/site-packages/wheel/vendored/vendor.txt",
     "Lib/site-packages/wheel/wheelfile.py",
     "Scripts/wheel-script.py",
-    "Scripts/wheel.exe",
-    ".nonadmin"
+    "Scripts/wheel.exe"
   ],
   "fn": "wheel-0.44.0-py311haa95532_0.conda",
   "license": "MIT",
   "link": {
-    "source": "C:\\Users\\md199\\anaconda3\\pkgs\\wheel-0.44.0-py311haa95532_0",
+    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\wheel-0.44.0-py311haa95532_0",
     "type": 1
   },
   "md5": "3ce7dda251c59835fb9a00b58cd44952",
   "name": "wheel",
-  "package_tarball_full_path": "C:\\Users\\md199\\anaconda3\\pkgs\\wheel-0.44.0-py311haa95532_0.conda",
+  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\wheel-0.44.0-py311haa95532_0.conda",
   "paths_data": {
     "paths": [
       {
